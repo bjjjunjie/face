@@ -33,3 +33,15 @@ F:\安装包\FaceRecognitionDotNet\src\FaceRecognitionDotNet\obj\Debug\netstanda
 F:\安装包\FaceRecognitionDotNet\src\FaceRecognitionDotNet\obj\Debug\netstandard2.0\FaceRecognitionDotNet.AssemblyInfo.cs
 F:\安装包\FaceRecognitionDotNet\src\FaceRecognitionDotNet\obj\Debug\netstandard2.0\FaceRecognitionDotNet.dll
 F:\安装包\FaceRecognitionDotNet\src\FaceRecognitionDotNet\obj\Debug\netstandard2.0\FaceRecognitionDotNet.pdb
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\bin\Debug\netstandard2.0\DlibDotNet.Native.dll
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\bin\Debug\netstandard2.0\DlibDotNet.Native.Dnn.dll
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\bin\Debug\netstandard2.0\models\dlib_face_recognition_resnet_model_v1.dat
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\bin\Debug\netstandard2.0\FaceRecognitionDotNet.deps.json
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\bin\Debug\netstandard2.0\FaceRecognitionDotNet.dll
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\bin\Debug\netstandard2.0\FaceRecognitionDotNet.pdb
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\obj\Debug\netstandard2.0\FaceRecognitionDotNet.csproj.CoreCompileInputs.cache
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\obj\Debug\netstandard2.0\FaceRecognitionDotNet.AssemblyInfoInputs.cache
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\obj\Debug\netstandard2.0\FaceRecognitionDotNet.AssemblyInfo.cs
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\obj\Debug\netstandard2.0\FaceRecognitionDotNet.dll
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\obj\Debug\netstandard2.0\FaceRecognitionDotNet.pdb
+D:\项目代码\人脸识别\face\src\FaceRecognitionDotNet\obj\Debug\netstandard2.0\FaceRecognitionDotNet.csprojAssemblyReference.cache

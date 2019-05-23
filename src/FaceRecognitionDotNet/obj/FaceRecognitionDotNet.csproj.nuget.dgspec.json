@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\程序源码\\人脸识别离线程序\\face\\src\\FaceRecognitionDotNet\\FaceRecognitionDotNet.csproj": {}
+    "D:\\项目代码\\人脸识别\\face\\src\\FaceRecognitionDotNet\\FaceRecognitionDotNet.csproj": {}
   },
   "projects": {
-    "E:\\程序源码\\人脸识别离线程序\\face\\src\\FaceRecognitionDotNet\\FaceRecognitionDotNet.csproj": {
+    "D:\\项目代码\\人脸识别\\face\\src\\FaceRecognitionDotNet\\FaceRecognitionDotNet.csproj": {
       "version": "1.2.3.6",
       "restore": {
-        "projectUniqueName": "E:\\程序源码\\人脸识别离线程序\\face\\src\\FaceRecognitionDotNet\\FaceRecognitionDotNet.csproj",
+        "projectUniqueName": "D:\\项目代码\\人脸识别\\face\\src\\FaceRecognitionDotNet\\FaceRecognitionDotNet.csproj",
         "projectName": "FaceRecognitionDotNet",
-        "projectPath": "E:\\程序源码\\人脸识别离线程序\\face\\src\\FaceRecognitionDotNet\\FaceRecognitionDotNet.csproj",
-        "packagesPath": "C:\\Users\\bjjju\\.nuget\\packages\\",
-        "outputPath": "E:\\程序源码\\人脸识别离线程序\\face\\src\\FaceRecognitionDotNet\\obj\\",
+        "projectPath": "D:\\项目代码\\人脸识别\\face\\src\\FaceRecognitionDotNet\\FaceRecognitionDotNet.csproj",
+        "packagesPath": "C:\\Users\\xiaobai\\.nuget\\packages\\",
+        "outputPath": "D:\\项目代码\\人脸识别\\face\\src\\FaceRecognitionDotNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\bjjju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xiaobai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
